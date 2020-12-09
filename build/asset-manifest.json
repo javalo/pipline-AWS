@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f074ee9.chunk.css",
+    "main.js": "/static/js/main.5d8d6f30.chunk.js",
+    "main.js.map": "/static/js/main.5d8d6f30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0769725.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0769725.js.map",
+    "static/js/2.84ebf686.chunk.js": "/static/js/2.84ebf686.chunk.js",
+    "static/js/2.84ebf686.chunk.js.map": "/static/js/2.84ebf686.chunk.js.map",
+    "static/js/3.5cd903f2.chunk.js": "/static/js/3.5cd903f2.chunk.js",
+    "static/js/3.5cd903f2.chunk.js.map": "/static/js/3.5cd903f2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8f074ee9.chunk.css.map": "/static/css/main.8f074ee9.chunk.css.map",
+    "static/js/2.84ebf686.chunk.js.LICENSE.txt": "/static/js/2.84ebf686.chunk.js.LICENSE.txt",
+    "static/media/negStock.7fb96cdf.svg": "/static/media/negStock.7fb96cdf.svg",
+    "static/media/robinhood.d4c5626b.svg": "/static/media/robinhood.d4c5626b.svg",
+    "static/media/stock.ef9ad219.svg": "/static/media/stock.ef9ad219.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0769725.js",
+    "static/js/2.84ebf686.chunk.js",
+    "static/css/main.8f074ee9.chunk.css",
+    "static/js/main.5d8d6f30.chunk.js"
+  ]
+}

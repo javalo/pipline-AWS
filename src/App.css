@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+}
+
+.App-body{
+  width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.App-container{
+  
+    width: 1024px;
+    height: 100%;
+    display: flex;
+
+}
+
+* {
+  margin: 0;
+}
