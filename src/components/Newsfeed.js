@@ -48,7 +48,7 @@ const Newsfeed = () => {
 <div className="Newfeed-market-section">
 <div className="Newfeed-market-box">
      <p>Cash Management</p>
-     <h1>Happy Black friday</h1>
+     <h1>Marry Black friday</h1>
 </div>
 </div>
 
